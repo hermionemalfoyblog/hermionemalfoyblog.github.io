@@ -1,5 +1,19 @@
-Here you can say lots of fun things about your site.
+<i>"so much depends
+upon
 
-Maybe say a some things about yourself.
+a red wheel
+barrow
 
-Or maybe what you plan to blog about.
+glazed with rain
+water
+
+beside the white
+chickens"<br><br>
+  <b>~ William Carlos Williams</b>
+<br><br>
+
+"It is our choices, Harry, that show what we truly are, 
+far more than our abilities." <br>
+  
+  
+  <b>~ Albus Dumbledore</b>
